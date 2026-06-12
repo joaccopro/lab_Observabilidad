@@ -95,7 +95,7 @@ El que utilizaría para alertas sobre una aplicación concreta sería el CPU del
 
 ## 4. ¿Qué diferencia hay entre el intervalo de evaluación y el período pendiente de una alarma?
 
-Que el intervalo de evaluación indica cada cuánto tiempo Grafana revisa la condición de la alerta y, en cambio, el período pendiente indica cuánto tiempo debe mantenerse esa condición antes de pasar a `Firing`. Esto evita que la alarma se active por picos breves.
+Que el intervalo de evaluación indica cada cuánto tiempo Grafana revisa la condición de la alerta y, en cambio, el período pendiente indica cuánto tiempo debe mantenerse esa condición antes de pasar a Firing. Esto evita que la alarma se active por picos breves.
 
 
 
